@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|c:\\users\\gamael\\downloads\\123_crud_react_net8_webapi-main\\123_crud_react_net8_webapi-main\\webapicrud\\webapicrud\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|solutionrelative:webapicrud\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|c:\\users\\gamael\\downloads\\123_crud_react_net8_webapi-main\\123_crud_react_net8_webapi-main\\webapicrud\\webapicrud\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|solutionrelative:webapicrud\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|c:\\users\\gamael\\downloads\\123_crud_react_net8_webapi-main\\123_crud_react_net8_webapi-main\\webapicrud\\webapicrud\\webapicrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|solutionrelative:webapicrud\\webapicrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|c:\\users\\gamael\\downloads\\123_crud_react_net8_webapi-main\\123_crud_react_net8_webapi-main\\webapicrud\\webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83BE85BA-5175-4B30-A0F5-206B4B94DA90}|WebAPICrud\\WebAPICrud.csproj|solutionrelative:webapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "WebAPICrud\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\Controllers\\EmpleadoController.cs*",
+              "RelativeToolTip": "WebAPICrud\\Controllers\\EmpleadoController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:59:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\Models\\Empleado.cs",
+              "RelativeDocumentMoniker": "WebAPICrud\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\Models\\Empleado.cs",
+              "RelativeToolTip": "WebAPICrud\\Models\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T20:58:51.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebAPICrud.http",
+              "DocumentMoniker": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\WebAPICrud.http",
+              "RelativeDocumentMoniker": "WebAPICrud\\WebAPICrud.http",
+              "ToolTip": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\WebAPICrud.http",
+              "RelativeToolTip": "WebAPICrud\\WebAPICrud.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-10T20:58:43.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPICrud\\appsettings.json",
+              "ToolTip": "C:\\Users\\GAMAEL\\Downloads\\123_CRUD_REACT_NET8_WEBAPI-main\\123_CRUD_REACT_NET8_WEBAPI-main\\WebAPICrud\\WebAPICrud\\appsettings.json",
+              "RelativeToolTip": "WebAPICrud\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-20T10:22:48.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83be85ba-5175-4b30-a0f5-206b4b94da90": {
+      "ProjectGuid": "83be85ba-5175-4b30-a0f5-206b4b94da90",
+      "DisplayName": "WebAPICrud",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
